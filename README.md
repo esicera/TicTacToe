@@ -29,3 +29,7 @@ Use the included `Launcher.bat` (Windows only) to choose between:
 ```bash
 1. Console version
 2. GUI version
+
+🐾 Credits
+Built by Thahmid as part of an Object-Oriented Programming Assignment.
+This repo removes coursework-specific content and focuses purely on the code and structure.
